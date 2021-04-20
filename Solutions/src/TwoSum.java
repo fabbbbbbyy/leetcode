@@ -3,6 +3,8 @@
  * Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
  * You may assume that each input would have exactly one solution, and you may not use the same element twice.
  * You can return the answer in any order.
+ *
+ * Insight: Single pass iteration to determine existence of a complement within the array.
  */
 
 /* For submission, replace classname with Solution in Leetcode.*/
