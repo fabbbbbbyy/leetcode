@@ -5,7 +5,7 @@
  * You can return the answer in any order.
  */
 
-/* For submission, replace class TwoSum with Solution in Leetcode.*/
+/* For submission, replace classname with Solution in Leetcode.*/
 
 import java.util.*;
 
