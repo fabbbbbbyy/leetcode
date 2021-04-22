@@ -1,4 +1,6 @@
 /**
+ * https://leetcode.com/problems/3sum/
+ *
  * Problem:
  * Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k,
  * and nums[i] + nums[j] + nums[k] == 0.
@@ -10,7 +12,7 @@
  * If the current number is positive, no TwoSum on the right hand side will add up to the complement of the number,
  * so we can break here.
  * There might be more than one possibility of ThreeSum for a given number, so we have to converge the pointers
- * regardless. 
+ * regardless.
  */
 
 /* For submission, replace classname with Solution in Leetcode.*/
