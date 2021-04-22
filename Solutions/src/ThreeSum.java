@@ -40,12 +40,12 @@ public class ThreeSum {
                     triplet.add(nums[left]);
                     triplet.add(nums[right]);
                     set.add(triplet);
-                    left += 1;
-                    right -= 1;
+                    left++;
+                    right--;
                 } else if (twoSum < complement) {
-                    left += 1;
+                    left++;
                 } else {
-                    right -= 1;
+                    right--;
                 }
             }
         }
