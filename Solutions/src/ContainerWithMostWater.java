@@ -7,7 +7,7 @@
  * Find two lines, which, together with the x-axis forms a container, such that the container contains the most water.
  * Notice that you may not slant the container.
  *
- * Insight: Greedy modification of Kadene's algorithm. 
+ * Insight: Greedy modification of Kadene's algorithm.
  */
 
 /* For submission, replace classname with Solution in Leetcode.*/
