@@ -7,7 +7,7 @@
  * Note that the same word in the dictionary may be reused multiple times in the segmentation.
  *
  * Insight: Remember that different types of caches can be used based on the problem. It is easier to use
- * a HashMap for subproblems which rely on changing variables like Strings. 
+ * a HashMap for subproblems which rely on changing variables like Strings.
  *
  */
 
