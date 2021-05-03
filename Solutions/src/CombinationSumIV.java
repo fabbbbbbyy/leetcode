@@ -8,7 +8,7 @@
  * The answer is guaranteed to fit in a 32-bit integer.
  *
  * Insight: Recursion with memoization. Initialize array to negative 1s because the number
- * of ways for previously computed targets might be 0. 
+ * of ways for previously computed targets might be 0.
  *
  */
 
