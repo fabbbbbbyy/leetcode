@@ -8,7 +8,8 @@
  *
  * Determine if you are able to reach the last index.
  *
- * Insight:
+ * Insight: Slightly different dp approach -> continue if we figured out we cannot reach the end from a given position
+ * before. 
  */
 
 /* For submission, replace classname with Solution in Leetcode.*/
