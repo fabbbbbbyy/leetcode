@@ -4,7 +4,7 @@ https://leetcode.com/problems/sqrtx/
 
 ## Insight
 
-Think Binary Search for most Math problems!
+Think Binary Search for most Math problems.
 
 If our half * half value is more than our number, we shift the right
 pointer to half - 1. 
