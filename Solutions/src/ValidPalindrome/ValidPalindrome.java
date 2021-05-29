@@ -2,6 +2,8 @@ package ValidPalindrome;
 
 /* For submission, replace classname with Solution in Leetcode.*/
 
+import java.util.*;
+
 public class ValidPalindrome {
     public boolean isPalindrome(String s) {
         StringBuilder sb = new StringBuilder();
