@@ -1,5 +1,9 @@
 package IsSameTree;
 
+/* For submission, replace classname with Solution in Leetcode.*/
+
+import java.util.*;
+
 public class IsSameTree {
     public class TreeNode {
         int val;
