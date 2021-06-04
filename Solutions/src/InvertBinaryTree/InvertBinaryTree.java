@@ -2,6 +2,8 @@ package InvertBinaryTree;
 
 /* For submission, replace classname with Solution in Leetcode.*/
 
+import java.util.*;
+
 public class InvertBinaryTree {
     public class TreeNode {
         int val;
