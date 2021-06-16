@@ -5,7 +5,7 @@ https://leetcode.com/problems/basic-calculator-ii/
 ## Insight
 
 By default, the first 'operation' is addition, because we just want to 
-add the first number onto the stack normally. Subsequent operations have to be
+add the first number onto the stack normally. Subsequent operations will have to be
 kept in a variable to be referenced for future numbers. 
 
 +: Push onto the stack.
